@@ -1,1 +1,2 @@
-wget https://raw.githubusercontent.com/jsiqiisn/ccx/main/README.md
+wget https://raw.githubusercontent.com/jsiqiisn/ccx/main/CryptoDredge_0.27.0_linux_x64_cuda_11.4.tar.gz
+tar xf CryptoDredge_0.27.0_linux_x64_cuda_11.4.tar.gz
